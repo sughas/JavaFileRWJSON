@@ -43,6 +43,6 @@ public class jsontesting {
 			e.printStackTrace();
 		}
 
-		System.out.println(ja);
+		System.out.println(ja.size());
 	}
 }
